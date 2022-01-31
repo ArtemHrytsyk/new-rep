@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`the OK button tests renders correctly 1`] = `
+<button
+  onClick={[Function]}
+>
+  <span>
+    OK
+  </span>
+</button>
+`;

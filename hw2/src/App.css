@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  background-color: #9c9d9e;
+}
+
+
+
+.App-header {
+  background-color: #6f7072;
+height: 100px;
+}
+
+button{
+  width: 100px;
+  height: 40px;
+  display:inline-block;
+
+}
